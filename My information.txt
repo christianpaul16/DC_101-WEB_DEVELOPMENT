@@ -1,7 +1,4 @@
-name:christian Paul pamfilo 
-CYS:
-course:bscs 2e 
-instructor:
-age:19
-address:marawoy lipa city
-contact number:09633764255
+Name:Christian Paul Pamfilo 
+CYS:BSCS 2E
+Subject: Dc 101 Web Development
+Instructor: Engr. John Eugene D. Fortunado 
